@@ -13,7 +13,6 @@ img {
     border-radius: 18px;
 
     display: inline-block;
-    border: 1px solid #ccc;
     transition: 1s;
 
     cursor: pointer;
@@ -25,13 +24,12 @@ img:hover {
 
 /* FOOTER */
 footer {
-    position: absolute;
+    margin-top: auto;
     bottom: 0;
     width: 100%;
     text-align: center;
     font-family: 'Courier New', Courier, monospace;
     font-size: 8px;
-    height: 2.5rem;            /* Footer height */
 }
 
 /* NAVBAR */
