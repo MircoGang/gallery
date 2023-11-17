@@ -51,7 +51,7 @@ footer {
     justify-content: space-between;
     align-items: center;
     z-index: 100;
-    font-family: "Poppins",sans-serif;
+    font-family: 'Courier New', Courier, monospace;
 }
 
 .logo {
@@ -59,7 +59,7 @@ footer {
     color: white;
     text-decoration: none;
     font-weight: 700;
-    font-family: "Poppins",sans-serif;
+    font-family: 'Courier New', Courier, monospace;
 }
 
 .navbar a{
@@ -68,7 +68,7 @@ footer {
     color: rgb(0, 0, 0);
     font-weight: 500;
     text-decoration: none;
-    font-family: "Poppins",sans-serif;
+    font-family: 'Courier New', Courier, monospace;
     margin-left: 40px;
 }
 
